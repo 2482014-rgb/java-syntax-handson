@@ -1,0 +1,34 @@
+Task 1 :
+SYNTAX CHECKER
+-Nama variabel diawali oleh angka
+-Ada spasi di nama variabel
+Keyword (class) tidak boleh jadi nama variabel
+Kurang titik dan koma
+NAMING CONVENTION
+-Variabel lain belum dibuat sesuai aturan penamaan
+Task 2 :
+
+Task 2 :
+DATA TYPE LIMITS
+-Belum eksplorasi tipe data lain
+SIMPLE CALCULATOR
+-Operasi matematika belum diimplemaentasikan
+
+Task 3 :
+DATA LOSS STUDY
+-Belum ada 3 skenario tambahan untuk data loss
+TYPE CASTING EXPERIMENT
+-Escape sequence nya salah
+-Belum ada eksperimen tambahan sesuai TODO
+
+Task 4 :
+BIODATA MAHASISWA
+-Input tambahan (semster,jurusan,tahun masuk) belum ditambahkan
+UNIT CONVERTER
+-Case 2 dan 3 belum diimplementasikan (celsius-fahrenheit, rupiah-dollar)
+
+Task 5
+GRADE CALCULATOR
+-Escape sequence salah
+-Belum ada validasi input (0-100)
+-Fitur konversi skala 4.0 dan status kelulusan belum ditambahkkan
